@@ -72,7 +72,7 @@ The **Internet of Things (IoT)** has immensely transformed Supply Chain Manageme
 ## References
 
 - Wikipedia
-- [Amazon Start-up story](ttps://www.fundable.com/learn/startup-stories/amazon)
+- [Amazon Start-up story](https://www.fundable.com/learn/startup-stories/amazon)
 - [Amazon Business Revenue Model](https://startuptalky.com/business-revenue-model-amazon/)
 - [Approach In How Amazon Uses AI](https://www.zentail.com/blog/amazons-flywheel-approach-how-amazon-uses-ai)
 - [Amazon AI Powered Supply Chain](https://www.fool.com/investing/2023/05/10/is-amazons-ai-powered-supply-chain-the-secret-to-i/)
