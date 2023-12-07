@@ -69,7 +69,7 @@ The **Internet of Things (IoT)** has immensely transformed Supply Chain Manageme
 
 * The recommendation to Amazon as a shareholder is to also increase concentration to high margin products. By that way, the revenue can be increased. By also leveraging the existing AI powered tools and the new areas of innovation can be a solution to achieve the goal for the above recommendation.
 
-## References
+## *References*
 
 - *Wikipedia*
 - [*Amazon Start-up story*](https://www.fundable.com/learn/startup-stories/amazon)
